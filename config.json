@@ -1,7 +1,7 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "claaymc.aternos.me",
+ "port": "32383",
+ "name": "bob",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here"
+ "loginmsg": "hello"
 }
